@@ -1,0 +1,13 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "Erstes Projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
